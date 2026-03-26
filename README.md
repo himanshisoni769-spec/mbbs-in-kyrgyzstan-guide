@@ -1,6 +1,10 @@
 # mbbs-in-kyrgyzstan-guide
 Complete guide for Indian students who want to study MBBS in Kyrgyzstan – fees, universities, admission process.
-# MBBS in Kyrgyzstan – Complete Guide for Indian Students
+
+![MBBS in Kyrgyzstan](https://github.com/user-attachments/assets/2462439c-1b0c-461f-8745-90faf69c51d7)
+
+## MBBS in Kyrgyzstan – Complete Guide for Indian Students
+
 
 Many Indian students are choosing Kyrgyzstan for MBBS because private medical colleges in India are extremely expensive.
 
